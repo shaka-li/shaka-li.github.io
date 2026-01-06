@@ -24,9 +24,9 @@ repository               : "shaka-li.github.io"
 author:
   # Biographic information
   avatar           : "my.JPG"
-  name             : "Shaka Y.J. Li"
+  name             : "Shaka Y.J. Li (李宜展)"
   pronouns         : # example: "she/her"  
-  bio              : ""
+  bio              : "Ph.D. Student"
   location         : "Tallahassee"
   employer         : "Florida State University"
   uri              : # URL
